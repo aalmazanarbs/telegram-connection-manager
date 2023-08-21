@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Telegram Connection Manager</string>
+    <string name="telegram_connection_manager_tile_label">Telegram Connection Manager</string>
+    <string name="telegram_connection_manager_start_success">Success START, TURN ON Wi-Fi</string>
+    <string name="telegram_connection_manager_stop_success">Success STOP, TURN OFF Wi-Fi</string>
+    <string name="telegram_connection_manager_tile_error">ERROR</string>
+    <string name="preferences">Preferences</string>
+    <string name="preferences_telegram">Telegram</string>
+    <string name="preferences_telegram_bot_api_token_title">Bot API token</string>
+    <string name="preferences_telegram_bot_api_token_summary">The bot token to connect to <i>Connection Manager Bot</i></string>
+    <string name="preferences_telegram_chat_id_title">Chat ID</string>
+    <string name="preferences_telegram_chat_id_summary">The chat id where connection commands where be send</string>
+    <string name="preferences_telegram_commands_start_title">Start</string>
+    <string name="preferences_telegram_commands_start_summary">The command to send to start shared connection</string>
+    <string name="preferences_telegram_commands_stop_title">Stop</string>
+    <string name="preferences_telegram_commands_stop_summary">The command to send to stop shared connection</string>
+</resources>
